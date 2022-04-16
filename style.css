@@ -1,0 +1,95 @@
+.navbar {
+    background-color:rgba(158, 243, 73, 0.733);
+    font-size: 18px;
+    font-weight:500;
+    padding-left: 15px;
+    padding-right: 15px;
+    color:maroon;
+}
+
+#recipiente {
+    background-color:rgb(70, 90, 180);
+    font-family: sans-serif;
+}
+
+.margin {
+    padding: 30px;
+}
+
+.quemsomos {
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: Verdana;
+}
+
+#parceiros{
+    font-family: sans-serif;
+    background-color:rgba(0, 255, 128, 0.774);
+}
+
+#serviços {
+    font-family: sans-serif;
+    background-color:white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.direita1 {
+    background-color:rgba(128, 0, 128, 0.76);
+    padding: 30px;
+    padding-top: 90px;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+.esquerda1 {
+    background-color:white;
+    padding: 30px;
+}
+
+.direita2 {
+    background-color:white;
+    padding: 30px;
+}
+
+.esquerda2 {
+    background-color:rgba(128, 0, 128, 0.76);
+    padding: 30px;
+    padding-top: 65px;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+h3 {
+    font-family: Impact;
+    padding-bottom: 30px;
+}
+
+h4 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 28px;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+
+footer {
+    background-color:gray;
+    font-size: 20px;
+    font-family: Verdana;
+    color: white;
+}
+  
+.contatos li {
+    display: inline;
+    padding-right: 90px;
+
+}
+.contatos a {
+    list-style:none;
+    text-decoration: none;
+    color: white;
+}
